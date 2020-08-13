@@ -35,7 +35,7 @@
 
 ---
 
-<img align="left" alt="Dmitriuses Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Dmitriuses&show_icons=true&hide_border=true" />
+<img align="left" alt="Dmitriuses Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Dimitriuses&show_icons=true&hide_border=true" />
 
 [website]: https://codeSTACKr.com
 [telegram]: https://telegram.com
