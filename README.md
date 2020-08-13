@@ -39,15 +39,12 @@
 
 <img align="left" alt="Dmitriuses Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitriuses&layout=compact" />
 
-<--!<img align="right" alt="Dimitriuses Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=Dimitriuses&repo=github-readme-stats" />-->
-
-
 [website]: https://codeSTACKr.com
 [telegram]: https://telegram.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com
+[youtube]: https://youtube.com
+[instagram]: https://instagram.com
+[linkedin]: https://linkedin.com
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
