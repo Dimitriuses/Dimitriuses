@@ -39,6 +39,9 @@
 
 <img align="left" alt="Dmitriuses Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitriuses&layout=compact" />
 
+<img align="left" alt="Dmitriuses Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=Dimitriuses&repo=github-readme-stats" />
+
+
 [website]: https://codeSTACKr.com
 [telegram]: https://telegram.com
 [twitter]: https://twitter.com/codeSTACKr
