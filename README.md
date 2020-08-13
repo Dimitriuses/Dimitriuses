@@ -39,7 +39,7 @@
 
 <img align="left" alt="Dmitriuses Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitriuses&layout=compact" />
 
-<img align="left" alt="Dmitriuses Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=Dimitriuses&repo=github-readme-stats" />
+<img align="right" alt="Dimitriuses Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=Dimitriuses&repo=github-readme-stats" />
 
 
 [website]: https://codeSTACKr.com
