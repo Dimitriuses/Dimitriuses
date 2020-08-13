@@ -1,6 +1,6 @@
 # Dmitriuses
 
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Jesse - aka [website] 👋
 
 ## I'm a Husband, Father, Developer, and Teacher!
 - 🔭 I’m currently working on a [VS Code Course][website]!
@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/telegram.svg" />][telegram]
+[<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/telegram.svg" />]
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
