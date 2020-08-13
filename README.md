@@ -35,7 +35,7 @@
 
 ---
 
-<img align="left" alt="Dmitriuses Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Dimitriuses&show_icons=true&hide_border=true" />
+<img align="left" alt="Dmitriuses Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Dimitriuses&show_icons=true&hide_border=true&include_all_commits=true" />
 
 <img align="left" alt="Dmitriuses Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitriuses&layout=compact" />
 
