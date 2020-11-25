@@ -12,7 +12,10 @@
 <br />
 
 ### Languages and Tools:
+[<img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" />][webdevplaylist]
+[<img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/96/000000/c-sharp-logo.png" />][webdevplaylist]
 [<img align="left" alt="Visual Studio" width="26px" src="https://img.icons8.com/color/96/000000/visual-studio.png" />][webdevplaylist]
+[<img align="left" alt="Net Framework" width="26px" src="https://iconape.com/wp-content/files/pd/353150/png/microsoft-net-framework-logo.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Android" width="26px" src="https://img.icons8.com/fluent/96/000000/android.png" />][cssplaylist]
@@ -44,7 +47,7 @@
 [youtube]: https://youtube.com
 [instagram]: https://instagram.com
 [linkedin]: https://linkedin.com
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[webdevplaylist]: https://www.youtube.com
+[jsplaylist]: https://www.youtube.com
+[cssplaylist]: https://www.youtube.com
+[reactplaylist]: https://www.youtube.com
