@@ -4,10 +4,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/telegram.svg" />][telegram]
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -44,11 +41,11 @@
 <img align="left" alt="Dmitriuses Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitriuses&layout=compact" />
 
 [website]: https://codeSTACKr.com
-[telegram]: https://telegram.com
+[telegram]: https://t.me/Dmitrius_H
 [twitter]: https://twitter.com
 [youtube]: https://youtube.com
 [instagram]: https://instagram.com
-[linkedin]: https://linkedin.com
+[linkedin]: https://www.linkedin.com/in/dmitrius/
 [webdevplaylist]: https://www.youtube.com
 [jsplaylist]: https://www.youtube.com
 [cssplaylist]: https://www.youtube.com
