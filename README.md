@@ -16,7 +16,7 @@
 [<img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/96/000000/c-sharp-logo.png" />][webdevplaylist]
 [<img align="left" alt="Visual Studio" width="26px" src="https://img.icons8.com/color/96/000000/visual-studio.png" />][webdevplaylist]
 [<img align="left" alt="Net Framework" width="26px" src="https://iconape.com/wp-content/files/pd/353150/png/microsoft-net-framework-logo.png" />][webdevplaylist]
-[<img align="left" alt="WPF" width="26px" src="https://www.openautomationsoftware.com/wp-content/uploads/2016/07/What-is-WPF.png" />][webdevplaylist]
+[<img align="left" alt="WPF" width="26px" src="https://bs-uploads.toptal.io/blackfish-uploads/components/skill_page/content/logo_file/logo/195615/regular_82x82_wpf-348e87f7a11942c3d20c93dd3864e297.png" />][webdevplaylist]
 [<img align="left" alt="Unity" width="26px" src="https://icon-library.com/images/unity-icon/unity-icon-1.jpg" />][cssplaylist]
 [<img align="left" alt="Android" width="26px" src="https://img.icons8.com/fluent/96/000000/android.png" />][cssplaylist]
 [<img align="left" alt="Java" width="26px" src="https://cdn.worldvectorlogo.com/logos/java-4.svg" />][cssplaylist]
