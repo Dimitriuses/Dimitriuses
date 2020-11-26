@@ -1,4 +1,4 @@
-# Dmitriuses
+# Dimitriuses
 
 
 ### Connect with me:
